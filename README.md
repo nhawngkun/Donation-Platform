@@ -2,7 +2,7 @@ CeloDonation dApp
 
 Who are you:
 -Đào Duy Thắng.
--Nguyễn Khành Duy 
+-Nguyễn Khánh Duy 
 
 
 🚀 Mô tả Dự án
